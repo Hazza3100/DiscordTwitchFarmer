@@ -17,11 +17,6 @@ You can leave this on 24/7
 - Message Sender
 
 
-## Demo
-
-![Link](https://media.discordapp.net/attachments/998676329920741447/1023302811695468595/unknown.png)
-
-
 ## Run Locally
 
 Clone the project
