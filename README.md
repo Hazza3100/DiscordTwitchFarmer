@@ -5,7 +5,8 @@
 ```
 Sends a message every x minute
 
-Farm followers
+Farms followers
+```
 
 This script automatically sends .follow or whatever to a channel of your choice you can leave this on 24/7 :p
 
