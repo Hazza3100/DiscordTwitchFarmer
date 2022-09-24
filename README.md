@@ -1,8 +1,13 @@
 # Discord Twitch Macro
 
+# What it does?
 
+```
+Sends a message every x minute
 
-This scipt automatically sends .follow or whatever to a channel of your choice you can leave this on 24/7 :p
+Farm followers
+
+This script automatically sends .follow or whatever to a channel of your choice you can leave this on 24/7 :p
 
 **Disclaimer**
 
