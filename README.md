@@ -36,7 +36,7 @@ Go to the project directory
   cd DiscordTwitchFarmer
 ```
 
-Install dependencies
+Install modules
 
 ```bash
   pip install (module name)
