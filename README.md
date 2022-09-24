@@ -17,11 +17,6 @@ You can leave this on 24/7
 - Message Sender
 
 
-## Feedback
-
-If you have any feedback, please reach out to us at - [Discord](https://discord.gg/phts)
-
-
 ## Demo
 
 ![Link](https://media.discordapp.net/attachments/998676329920741447/1023302811695468595/unknown.png)
@@ -52,3 +47,4 @@ Start the Script
 ```bash
   python main.py
 ```
+
