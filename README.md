@@ -1,23 +1,22 @@
+
 # Discord Twitch Macro
 
-# What it does?
+Automatically sends (.follow username) to a channel of your choice.
 
-```
-Sends a message every x minute
+You can leave this on 24/7 :p
+## Authors
 
-Farms followers
-```
-
-> Local Version
-> 
-> Replit Version
+- [@Hazza3100](https://www.github.com/Hazza3100)
 
 
+## Features
 
-This script automatically sends .follow or whatever to a channel of your choice you can leave this on 24/7 :p
+- Local
+- Replit
+- Timer
+- Message Sender
 
-**Disclaimer**
 
-This maybe against the server's rules, so I would be careful!
+## Feedback
 
-ps educational purposes only :)
+If you have any feedback, please reach out to us at discord.gg/phts
