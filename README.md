@@ -20,3 +20,35 @@ You can leave this on 24/7
 ## Feedback
 
 If you have any feedback, please reach out to us at - [Discord](https://discord.gg/phts)
+
+
+## Demo
+
+![Link](https://media.discordapp.net/attachments/998676329920741447/1023302811695468595/unknown.png)
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Hazza3100/DiscordTwitchFarmer
+```
+
+Go to the project directory
+
+```bash
+  cd DiscordTwitchFarmer
+```
+
+Install dependencies
+
+```bash
+  pip install (module name)
+```
+
+Start the Script
+
+```bash
+  python main.py
+```
