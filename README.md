@@ -8,6 +8,11 @@ Sends a message every x minute
 Farms followers
 ```
 
+> Local Version
+> Replit Version
+
+
+
 This script automatically sends .follow or whatever to a channel of your choice you can leave this on 24/7 :p
 
 **Disclaimer**
